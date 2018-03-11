@@ -11,3 +11,5 @@ elif country =='美國':
 		print('許可')
 	else:
 		print('不許可')
+else:
+	print('只能輸入台灣或美國')
